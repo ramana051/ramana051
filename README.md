@@ -1,12 +1,12 @@
 # Hi there, I'm Ramana! 👋
 
-### 🚀 Aspiring Software Developer | Full Stack Developer | Salesforce Enthusiast
+### 🚀 Aspiring Software Developer | Full Stack Developer 
 
 I'm a Computer Science and Engineering student passionate about building real-world applications, solving problems, and exploring new technologies.
 
 - 🎓 B.Tech CSE Student at Pragati Engineering College.
 - 💻 Interested in Full Stack Development, Backend Engineering, and Salesforce Development.
-- 🌱 Currently learning **Salesforce Apex, Java, and Advanced Backend Development**.
+- 🌱 Currently learning **Java, and Advanced Backend Development**.
 - 🧠 Practicing Data Structures and Algorithms on LeetCode.
 - 🏆 Winner of the GDG Web Development Contest – First Place.
 - 🎯 Focused on improving my problem-solving skills and building impactful projects.
@@ -29,11 +29,7 @@ Node.js | Express.js | REST APIs
 
 **Database**
 
-PostgreSQL | MongoDB | SQLite
-
-**Salesforce Development**
-
-Salesforce Admin | Apex | SOQL | Salesforce Flows
+PostgreSQL | MongoDB | SQL
 
 **Tools & Platforms**
 
@@ -48,8 +44,7 @@ Git | GitHub | Postman | VS Code | Docker | Render
 | Automatic Question Paper Generator | Generates question papers automatically | React.js, Node.js, PostgreSQL |
 | PrivyPrint | Secure Document Management System | React.js, Node.js, Express.js |
 | Biometric Attendance System | Attendance management using biometric technology | Arduino, React.js, Node.js |
-| Credential Issuance Service | Digital credential issuance platform | FastAPI |
-| Quiz Hub | Online quiz and assessment platform | Django, SQLite |
+| FastAPI | Quiz Hub | Online quiz and assessment platform |
 
 ---
 
@@ -84,9 +79,9 @@ Git | GitHub | Postman | VS Code | Docker | Render
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/g-v-v-ramana/)
 - 💻 GitHub: [@ramana051](https://github.com/ramana051)
-- 🧩 LeetCode: [Visit my Profile](https://leetcode.com/)
+- 🧩 LeetCode: [Visit my Profile](https://leetcode.com/u/24A35A0503)
 
 ---
 
