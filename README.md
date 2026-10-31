@@ -1,11 +1,11 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=RAMANA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=G%20V%20V%20RAMANA...&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Salesforce+Apex+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,16 +26,14 @@ const ramana = {
     interests: [
         "Full Stack Development",
         "Backend Engineering",
-        "Salesforce Development",
         "Problem Solving"
     ],
     currentlyLearning: [
-        "Java",
-        "Salesforce Apex",
         "Advanced Backend Development"
     ],
     achievements: [
-        "GDG Web Development Contest - First Place"
+        "GDG Web Development Contest - First Place",
+        "Participated in Hackathons - Get real - time expreience"
     ],
     motto: "Code. Learn. Build. Repeat."
 };
@@ -55,39 +53,31 @@ const ramana = {
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
 ### Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
-
-### Salesforce
-
-<p align="left">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -98,9 +88,8 @@ const ramana = {
 |---|---|---|
 | PrivyPrint | Secure Document Management System | React, Node.js, Express |
 | Automatic Question Paper Generator | Automated question paper generation | React, Node.js, PostgreSQL |
-| Biometric Attendance System | Biometric-based attendance management | Arduino, React, Node.js |
-| Credential Issuance Service | Digital credential issuance platform | FastAPI |
-| Quiz Hub | Online quiz and assessment platform | Django, SQLite |
+| Biometric Attendance System | Biometric-based attendance management | Arduino, React, Node.js | FastAPI |
+| Quiz Hub | Online quiz and assessment platform |
 
 ---
 
@@ -156,11 +145,11 @@ const ramana = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/g-v-v-ramana/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/24A35A0503">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
