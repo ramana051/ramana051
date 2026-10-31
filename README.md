@@ -1,90 +1,179 @@
-# Hi there, I'm Ramana! 👋
+<!-- Animated Header -->
+<div align="center">
 
-### 🚀 Aspiring Software Developer | Full Stack Developer 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=RAMANA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-I'm a Computer Science and Engineering student passionate about building real-world applications, solving problems, and exploring new technologies.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Salesforce+Apex+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+</a>
 
-- 🎓 B.Tech CSE Student at Pragati Engineering College.
-- 💻 Interested in Full Stack Development, Backend Engineering, and Salesforce Development.
-- 🌱 Currently learning **Java, and Advanced Backend Development**.
-- 🧠 Practicing Data Structures and Algorithms on LeetCode.
-- 🏆 Winner of the GDG Web Development Contest – First Place.
-- 🎯 Focused on improving my problem-solving skills and building impactful projects.
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ramana051&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Programming Languages**
+```javascript
+const ramana = {
+    education: "B.Tech - Computer Science Engineering",
+    college: "Pragati Engineering College",
+    role: "Aspiring Software Developer",
+    interests: [
+        "Full Stack Development",
+        "Backend Engineering",
+        "Salesforce Development",
+        "Problem Solving"
+    ],
+    currentlyLearning: [
+        "Java",
+        "Salesforce Apex",
+        "Advanced Backend Development"
+    ],
+    achievements: [
+        "GDG Web Development Contest - First Place"
+    ],
+    motto: "Code. Learn. Build. Repeat."
+};
+```
 
-Java | JavaScript | Python
+- 🎓 Computer Science Engineering student.
+- 💻 Passionate about developing real-world applications.
+- 🌱 Exploring Salesforce Apex, Java, and backend engineering.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🏆 Winner of GDG Web Development Contest.
+- 🚀 Always excited to learn and build something new.
 
-**Frontend Development**
+---
 
-HTML | CSS | React.js | Bootstrap | Tailwind CSS
+## ⚡ Tech Stack & Tools
 
-**Backend Development**
+### Programming Languages
 
-Node.js | Express.js | REST APIs
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-**Database**
+### Frontend Development
 
-PostgreSQL | MongoDB | SQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
+</p>
 
-**Tools & Platforms**
+### Backend Development
 
-Git | GitHub | Postman | VS Code | Docker | Render
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+### Salesforce
+
+<p align="left">
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech Stack |
 |---|---|---|
-| Automatic Question Paper Generator | Generates question papers automatically | React.js, Node.js, PostgreSQL |
-| PrivyPrint | Secure Document Management System | React.js, Node.js, Express.js |
-| Biometric Attendance System | Attendance management using biometric technology | Arduino, React.js, Node.js |
-| FastAPI | Quiz Hub | Online quiz and assessment platform |
+| PrivyPrint | Secure Document Management System | React, Node.js, Express |
+| Automatic Question Paper Generator | Automated question paper generation | React, Node.js, PostgreSQL |
+| Biometric Attendance System | Biometric-based attendance management | Arduino, React, Node.js |
+| Credential Issuance Service | Digital credential issuance platform | FastAPI |
+| Quiz Hub | Online quiz and assessment platform | Django, SQLite |
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements & Certifications
 
 - 🥇 First Place – GDG Web Development Contest.
 - ☁️ AWS Academy Graduate – Cloud Foundations.
-- 🔐 NPTEL Elite Certification – Privacy and Security in Online Social Media.
-- ☁️ Microsoft Fabric – DP-600.
 - 🧩 IBM Enterprise Design Thinking Practitioner.
+- 🔐 NPTEL Elite – Privacy and Security in Online Social Media.
+- ☁️ Microsoft Fabric DP-600.
 - 🔒 Zero Trust Cloud Security Virtual Internship – AICTE & Zscaler.
 - 📱 Google Android Developer Virtual Internship.
 
 ---
 
-## 💡 What I'm Currently Working On
+## 📊 GitHub Analytics
 
-- Strengthening Java and Data Structures & Algorithms.
-- Learning Salesforce Apex, SOQL, and Salesforce Automation.
-- Improving backend development skills.
-- Building practical projects and exploring new technologies.
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramana051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-## 📊 GitHub Statistics
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramana051&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramana051&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramana051&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 Contribution Streak
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/g-v-v-ramana/)
-- 💻 GitHub: [@ramana051](https://github.com/ramana051)
-- 🧩 LeetCode: [Visit my Profile](https://leetcode.com/u/24A35A0503)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ramana051&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
 
 ---
 
-### ✨ "Code. Learn. Build. Repeat."
+## 📈 Contribution Activity
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramana051&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ramana051">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great developers are not born. They are built through consistency."
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=120&section=footer" width="100%" />
+
+</div>
